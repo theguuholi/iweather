@@ -14,3 +14,4 @@ npm i @testing-library/react-native --legacy-peer-deps -D.
 
 https://react-native-async-storage.github.io/async-storage/docs/advanced/jest
 
+❯ npm install jest-transformer-svg --save-dev
