@@ -11,3 +11,6 @@ reactnative library
 https://github.com/callstack/react-native-testing-library?tab=readme-ov-file
 
 npm i @testing-library/react-native --legacy-peer-deps -D.
+
+https://react-native-async-storage.github.io/async-storage/docs/advanced/jest
+
